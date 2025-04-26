@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 <img
       src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShojIWHb9WO5eZMyDTCTSdAflbEzwbw7oMfg&s"
       alt="Imagem vinda do Discord"
-      width="500">
+      width="300">
