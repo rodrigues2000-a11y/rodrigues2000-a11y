@@ -22,3 +22,6 @@ Here are some ideas to get you started:
       height="250"
       style="border-radius: 500px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"
 />
+
+<h2>Curso Análise e Desenvolvimento de Sistemas </h2>
+<h1>Seja bem vindo ao meu perfil</h1>
