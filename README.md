@@ -19,5 +19,5 @@ Here are some ideas to get you started:
       src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShojIWHb9WO5eZMyDTCTSdAflbEzwbw7oMfg&s"
       alt="Imagem vinda do Discord"
       width="250"
-      style="border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"
+      style="border-radius: 500px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"
 />
